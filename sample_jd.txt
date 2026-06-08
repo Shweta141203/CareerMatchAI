@@ -1,0 +1,20 @@
+SQL Server/PostgreSQL/Oracle
+Stored Procedures, Triggers, Indexing
+Performance Tuning, ETL tools
+Data modeling
+Experience with AI-powered data processing
+
+
+
+
+Qualifications
+
+Strong collaboration skills, with experience partnering with development teams on database design and optimization strategies.
+Proficient in SQL and relational database management; Extensive experience with Azure SQL Databases and relational data modeling.
+Skilled in query tuning, indexing, and capacity planning to optimize database performance.
+Strong analytical, organizational, and troubleshooting abilities.
+Understanding of manufacturing environments and processes.
+Experience performing root cause analysis to identify data or process improvement opportunities.
+Experience supporting cross-functional teams in dynamic, agile environments.
+Ability to monitor performance metrics and proactively address scalability challenges.
+Education & Experience: Graduate degree in Computer Science, Computer Engineering, or related field with 2+ years in an IT Engineer role.
